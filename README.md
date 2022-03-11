@@ -1,4 +1,4 @@
-Apache Camel vs Spring XD comparision.
+**Apache Camel vs Spring XD comparision.**
 
 **Introduction:**
 
@@ -51,6 +51,7 @@ Some limitations identified in Spring XD are scaling capabilities, canary deploy
 To solve the class loader problem the existing integration and batch modules have been refactored to Spring Boot apps with isolated flat classloaders. In effect the redesign allows stream and batch applications to run as data microservices that can be independently evolved.
 
 **Conclusion:** 
+
 if ease of use, out of the box connectors to various data sources and better community support were major considerations it is better to go for Apache Camel.
 In case of large volume of data or stream processing Spring XD / Spring Cloud Data Flow would be a better choice.
 
