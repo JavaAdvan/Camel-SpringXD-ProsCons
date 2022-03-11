@@ -18,7 +18,7 @@ Spring XD is a unified, distributed, and extensible system for data ingestion, r
 
 ![image](https://user-images.githubusercontent.com/101301745/157778321-3fd35127-7273-4ab4-af20-4dc08bf77fcc.png)
 
-Current Version: Spring XD’s 1.3 GA(End-of-Support on July 2017)
+Current Version: Spring XD’s 1.3 GA(Support Ended on July 2017)
 
 Apache Camel vs Spring XD:
 
@@ -38,7 +38,9 @@ Spring XD also offers closed loop analytics.
 
 If Spring XD, is being considered it would be beneficial to go with Spring Cloud Data Flow.
 
-The Spring Cloud Data Flow - Spring Cloud Data Flow is the cloud native redesign of Spring XD - a project that aimed to simplify Big Data application development. This redesign allows running stream and batch applications as data microservices and they can independently evolve in isolation. 
+The Spring Cloud Data Flow - Spring Cloud Data Flow is the cloud native redesign of Spring XD - a project that aimed to simplify Big Data application development. This redesign allows running stream and batch applications as data microservices and they can independently evolve in isolation.
+
+Current Version: 2.9.2
 
 Spring XD vs Spring Cloud Data Flow
 
@@ -57,8 +59,13 @@ So the use cases / problem areas we need to address in a project will define the
 **Articles Referred(Online References):**
 
 (a) Introduction to Spring XD - https://www.infoq.com/articles/introducing-spring-xd/
+
 (b) Apache Camel vs Spring Integration - https://callistaenterprise.se/blogg/teknik/2015/10/12/apache-camel-vs-spring-integration/
+
 (c) Apache Camel and Other integration tools comparision - https://www.trustradius.com/products/apache-camel/reviews?qs=pros-and-cons#reviews
+
 (d) Spring XD - https://projects.spring.io/spring-xd/#:~:text=Spring%20XD%20is%20a%20unified,development%20of%20big%20data%20applications.
+
 (e) Orchestrating Data Microservices with Spring Cloud Data Flow - https://www.youtube.com/watch?v=GqEsgLUwskY
+
 (f) Spring Cloud Data Flow - https://www.infoq.com/news/2015/09/spring-cloud-data-flow/
