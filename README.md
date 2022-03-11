@@ -24,6 +24,10 @@ Spring XD has the following features which are its unique selling points -
 
 a) 
 
+![image](https://user-images.githubusercontent.com/101301745/157778321-3fd35127-7273-4ab4-af20-4dc08bf77fcc.png)
+
+
+
 
 
 
